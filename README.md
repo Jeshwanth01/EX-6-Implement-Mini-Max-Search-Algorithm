@@ -1,6 +1,6 @@
 <h1>Exp-No-6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: Rahul M R     </h3>
-<h3>Register Number: 2305003005      </h3>
+<h3>Name: JESHWANTH R    </h3>
+<h3>Register Number: 2305003003      </h3>
 <H2>Aim:</H2>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
